@@ -67,7 +67,7 @@ class ConversationHandler extends Thread
 
         this.socket = socket;
 
-        //fw = new FileWriter("C:\\Users\\Abhay\\Desktop\\ChatServer-Logs.txt",true);
+        //fw = new FileWriter("C:\\Users\\Mukul\\Desktop\\ChatServer-Logs.txt",true);
 
        // bw = new BufferedWriter(fw);
 
